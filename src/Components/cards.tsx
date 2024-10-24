@@ -1,4 +1,5 @@
 
+
 export default function Card({imgIlustration, impProfile, publisheAt, info ,name}) {
   return (
     <div className="bg-[#FFFFFF] p-4 h-auto w-72 max-w-[1440px] min-w-[375px] mx-auto border-t-2 border-l-2 border-r-8 border-b-8 rounded-2xl border-gray-900">
